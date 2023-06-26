@@ -1,1 +1,2 @@
-console.log("hello from experiment");
+const message="Hello"
+console.log(Hello)
